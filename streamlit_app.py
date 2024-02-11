@@ -171,8 +171,8 @@ st.caption("For more interesting projects, check out my portfolio website."
            "Have a brilliant idea? Let's connect and transform it into reality!")
 footer1, footer2, footer3 = st.columns(3)
 footer1.markdown('<a href="https://akshaysinngh.com" target="_blank">Portfolio Website</a>', unsafe_allow_html=True)
-footer2.markdown('<a href="https://linkedin.com/singh-akshay" target="_blank">LinkedIn</a>', unsafe_allow_html=True)
-footer3.markdown('<a href="https://github.com" target="_blank">GitHub</a>', unsafe_allow_html=True)
+footer2.markdown('<a href="https://linkedin.com/in/singh-akshay" target="_blank">LinkedIn</a>', unsafe_allow_html=True)
+footer3.markdown('<a href="https://github.com/akshayysinngh/" target="_blank">GitHub</a>', unsafe_allow_html=True)
 
 # st.markdown('_Markdown_')
 # st.write('Most objects') # df, err, func, keras!
