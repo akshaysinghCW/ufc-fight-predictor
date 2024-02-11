@@ -167,7 +167,7 @@ st.write('Please refrain from using this app for betting purposes. It was design
 
 st.markdown('**Made with ❤️ by Akshay Singh**')
 st.caption("For more interesting projects, check out my portfolio website."
-           "I'm always looking for interesting Data Science projects to work on."
+           "I'm always looking for interesting Data Science projects to work on. "
            "Have a brilliant idea? Let's connect and transform it into reality!")
 footer1, footer2, footer3 = st.columns(3)
 footer1.markdown('<a href="https://akshaysinngh.com" target="_blank">Portfolio Website</a>', unsafe_allow_html=True)
